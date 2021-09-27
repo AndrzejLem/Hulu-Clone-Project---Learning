@@ -7,7 +7,7 @@
 
 ## General Info
 
-It is a clone of the Hulu homepage made with YouTube tutorial.
+It is a clone of the Hulu homepage made with YouTube tutorial. Learning of coding with tutorial.
 
 ## Technologies
 Project is created with:
