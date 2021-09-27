@@ -1,1 +1,1 @@
-# Hulu-Project
+# Hulu Clone Project - Learning
